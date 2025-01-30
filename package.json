@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "personal site",
   "type": "module",
-  "packageManager": "pnpm@9.4.0",
   "dependencies": {
     "@vue/theme": "^2.3.0",
     "vitepress": "^1.6.3",
