@@ -27,7 +27,5 @@ features:
     title: 算法
     #details: JavaScript中的数据结构与算法
     link: /algs/algorithm/
-
-footer: false
 ---
 
